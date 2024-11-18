@@ -8,3 +8,4 @@
 - Scrape product details including name, price, rating, and availability.
 - Store the scraped data in a Pandas DataFrame.
 - Export the data to CSV for further analysis.
+
