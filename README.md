@@ -31,7 +31,7 @@ It uses Python and popular libraries like pandas, BeautifulSoup, and requests to
 
 
 # Crime Analysis Project
-- This project involves analyzing crime data to uncover patterns, trends, and insights using Python and Jupyter Notebook.
+This project involves analyzing crime data to uncover patterns, trends, and insights using Python and Jupyter Notebook.
 ## Features:
 - SQLite Magic: Write and execute SQL queries directly in Jupyter Notebook using `%sql` magic commands.
 - Data Analysis: Clean, transform, and explore datasets using Python.
